@@ -1,0 +1,7 @@
+
+
+welcome to my coding channel
+
+array
+pointers
+structures
