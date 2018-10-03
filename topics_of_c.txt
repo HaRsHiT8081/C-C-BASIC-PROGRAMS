@@ -1,0 +1,5 @@
+topics of c
+array
+structres
+pointers
+functions
