@@ -1,8 +1,0 @@
-topics of c
-array
-structres
-pointers
-functions
-unions
-done !!!!!!!!
-fer
